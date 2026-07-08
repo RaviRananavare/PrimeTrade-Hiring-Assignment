@@ -1,0 +1,6 @@
+classification,Total_Trades,Average_PnL,Total_PnL,Average_Trade_Size,Average_Fee
+Extreme Fear,21400,34.54,739110.25,5349.73,1.12
+Extreme Greed,39992,67.89,2715171.31,3112.25,0.68
+Fear,61837,54.29,3357155.44,7816.11,1.5
+Greed,50303,42.74,2150129.27,5736.88,1.25
+Neutral,37686,34.31,1292920.68,4782.73,1.04
